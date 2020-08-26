@@ -1,0 +1,3 @@
+Files can be generated via dowloading the sequences from the slide base
+Initially it will remove the raw symbols
+These sequences will be read by the preprocessing function to generate the images
